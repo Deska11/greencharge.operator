@@ -1,0 +1,11 @@
+Package: greencharge.operator
+Title: Alat Monitoring dan Manajemen Stasiun Pengisian EV
+Version: 1.0.0
+Authors@R: c(person("Nama", "Anda", email = "email@anda.com", role = c("aut", "cre")), person("Aisya", "Amelia", role = "ctb"), person("Deska", "Asri", role = "ctb"))
+Description: Package untuk operator stasiun pengisian EV.
+Depends: R (>= 4.0.0)
+Imports: dplyr, lubridate, ggplot2, knitr, rmarkdown, tidyr, stringr, DT
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
